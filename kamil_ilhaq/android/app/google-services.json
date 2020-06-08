@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294232125804",
+    "firebase_url": "https://socialnetwork-afdfa.firebaseio.com",
+    "project_id": "socialnetwork-afdfa",
+    "storage_bucket": "socialnetwork-afdfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294232125804:android:72cdefcb859329d7ad4349",
+        "android_client_info": {
+          "package_name": "com.kamil.ilhaq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294232125804-sutk746b0bli9q1dn0e5e3g6habonk5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamil.ilhaq",
+            "certificate_hash": "cf8fb1f958876f59a8f351f41db9c90e5c666795"
+          }
+        },
+        {
+          "client_id": "294232125804-20rdvnle5a42p1m23egfijpcsdernri0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeg2jotFJZwAagi92zjEou_u64x9rhBC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294232125804-20rdvnle5a42p1m23egfijpcsdernri0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
